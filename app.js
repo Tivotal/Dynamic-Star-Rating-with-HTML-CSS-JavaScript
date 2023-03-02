@@ -10,7 +10,7 @@ stars.forEach((star, index) => {
     //again loop through stars
     stars.forEach((star, index2) => {
       //adding class active to clicked item and
-      //other ant items which have lower index
+      //other and items which have lower index
       //and removing class active from items which have
       //index higher
       index >= index2
